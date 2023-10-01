@@ -1,5 +1,16 @@
 # Craftify Change Log
 
+## 1.12.0
+- Switched data urls to the Craftify-Mod Github org.
+- Added update messages in-game.
+- Clarified the essential support is for <= 1.12
+- Additional configuration option.s (by Spthiel)
+- Crop album images to prevent stretching. (by Spthiel)
+- Display the correct version in-game. (by Wyvest)
+- Updated keystore to account for Spotifys new certs, should fix images not loading.
+- Added shared servers menu (Allows for sharing your current song to servers via a packet, can be used by other mods)
+- Added support for 1.20.2
+
 ## 1.11.0
 - Renamed hide hud to reflect the actual purpose
 - Made player hide if debug info is opened.
