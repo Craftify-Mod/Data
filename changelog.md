@@ -1,5 +1,13 @@
 # Craftify Change Log
 
+## 1.13.0
+- Updated the configuration of services to a config popup next to mod mode.
+- Added the ability for themes to change font
+- Updated YTMD to v2
+- Added ability to use artist in the song message
+- Removed support for 1.19.3 (Its userbase was so small, if you want it just ask but I suggest updating to 1.19.4 instead)
+- Added support for 1.20.4
+
 ## 1.12.0
 - Switched data urls to the Craftify-Mod Github org.
 - Added update messages in-game.
