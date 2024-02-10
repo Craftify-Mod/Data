@@ -1,5 +1,8 @@
 # Craftify Change Log
 
+## 1.14.0
+- Updated Cider to 2.0
+
 ## 1.13.0
 - Updated the configuration of services to a config popup next to mod mode.
 - Added the ability for themes to change font
