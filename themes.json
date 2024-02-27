@@ -1,5 +1,39 @@
 [
   {
+    "id": "default",
+    "displayName": "Default Theme",
+    "author": "ThatGravyBoat",
+    "icon": "https://files.teamresourceful.com/r/ctWcDL.png",
+    "screenshot": "https://files.teamresourceful.com/r/TeRHEF.png",
+    "description": "This is the default theme provided by the mod.",
+    "theme": {
+      "borderColor":27611903,
+      "progressBar":{
+        "barColor":-1,
+        "barBackgroundColor":842150655,
+        "barRadius":3.0,
+        "numberColor":-1
+      },
+      "titleColor":-1,
+      "artistColor":-1,
+      "backgroundColor":80,
+      "controlColor":-1,
+      "controlHoverColor":-1768515841,
+      "selectedControlColor":27611903,
+      "selectedControlHoverColor":13920767,
+      "settingIcon":"https://files.teamresourceful.com/r/9DzwrP.png",
+      "shuffleIcon":"https://files.teamresourceful.com/r/Bl9ZTS.png",
+      "previousIcon":"https://files.teamresourceful.com/r/Dr7nH1.png",
+      "pauseIcon":"https://files.teamresourceful.com/r/55kubx.png",
+      "playIcon":"https://files.teamresourceful.com/r/rlQyJs.png",
+      "nextIcon":"https://files.teamresourceful.com/r/FDIAxt.png",
+      "repeatIcon":"https://files.teamresourceful.com/r/4gVqmu.png",
+      "externalIcon":"https://files.teamresourceful.com/r/7gJ4OY.png",
+      "positionEditorIcon": "https://files.teamresourceful.com/r/N3c8xm.png",
+      "volumeIcon": "https://files.teamresourceful.com/r/i7XLC1.png"
+    }
+  },
+  {
     "id": "pixelated",
     "displayName": "Pixelated Theme",
     "author": "Mo2men",
