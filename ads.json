@@ -1,0 +1,9 @@
+{
+    "__comment__": "Ads in Craftify replace existing ads which can not be displayed properly.",
+    "bisect": {
+        "title": "Bisect Hosting Partner",
+        "subtitle": "use code '§agravy§r'",
+        "image": "https://www.bisecthosting.com/images/logos/logo-app.png",
+        "link": "https://www.bisecthosting.com/gravy"
+    }
+}
