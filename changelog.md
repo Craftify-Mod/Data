@@ -1,5 +1,13 @@
 # Craftify Change Log
 
+## 1.15.0
+- Added support for tidal-hifi
+- Added support for 1.20.6
+- On modern versions fixed the UI rendering behind screens
+- Fixed images failing to load
+- Added image cache as to not use too many system resources
+- Fixed that there was an extra java package causing issues with certain mods
+
 ## 1.14.0
 - Updated Cider to 2.0
 
