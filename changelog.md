@@ -1,5 +1,11 @@
 # Craftify Change Log
 
+## 1.16.0
+- Added support for 1.21
+- Fixed YTMD not working with api v2
+- Added back server sharing for 1.20.6+
+- Clarified in the YouTube login what services are needed
+
 ## 1.15.0
 - Added support for tidal-hifi
 - Added support for 1.20.6
